@@ -1,0 +1,9 @@
+{
+  "name": "food-activity-tune",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
